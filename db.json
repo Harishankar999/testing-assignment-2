@@ -1,0 +1,54 @@
+{
+  "Important": [
+    {
+      "id": 1,
+      "question": "What is Your Name?",
+      "answer": "My Name is Harish"
+    },
+    {
+      "id": 2,
+      "question": "What is your Hobby?",
+      "answer": "Reading news paper, Playing Cricket, Solving DSA Question these are my hobbies."
+    },
+    {
+      "id": 3,
+      "question": "What is Your Father name?",
+      "answer": "My father name is Manoranjan Patra."
+    },
+    {
+      "id": 4,
+      "question": "What is your mother name?",
+      "answer": "My mother name is Sasmita Patra."
+    },
+    {
+      "id": 5,
+      "question": "How old are you?",
+      "answer": "I am 22 Years Old."
+    },
+    {
+      "id": 6,
+      "question": "Do you have any Brother or Sister?",
+      "answer": "Yes, I have a younger sister."
+    },
+    {
+      "id": 7,
+      "question": "What is your sister name?",
+      "answer": "My sister name is Haripriya."
+    },
+    {
+      "id": 8,
+      "question": "What is Your qualification?",
+      "answer": "I am a Software Developer."
+    },
+    {
+      "id": 9,
+      "question": "What is your College name?",
+      "answer": "Masai School"
+    },
+    {
+      "id": 10,
+      "question": "What is your passing year?",
+      "answer": "2022"
+    }
+  ]
+}
